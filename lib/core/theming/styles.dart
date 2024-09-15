@@ -1,6 +1,3 @@
-
-
-
 import 'package:face_recognition/core/theming/colors.dart';
 import 'package:face_recognition/core/utils/constatns.dart';
 import 'package:flutter/material.dart';
